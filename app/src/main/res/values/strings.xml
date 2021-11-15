@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Testing hardvare</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+
+    <string name="notification_title">Add image</string>
+    <string name="notification_text_save_image">You dont save image</string>
+    <string name="channal_id_save_image">SAVE_IMAGE</string>
+    <string name="channal_name_save_image">SAVE_IMAGE</string>
+    <string name="channal_content_text_save_image">SAVE_IMAGE</string>
+</resources>
